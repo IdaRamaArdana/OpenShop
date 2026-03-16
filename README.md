@@ -1,2 +1,2 @@
 # OpenShop
-An Open Shop site for Shopping i guess?
+An project OpenShop site for Shopping based with Python
